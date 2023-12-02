@@ -1,4 +1,4 @@
-# Deluge-Dark
+# DarkNBlue
 This is a dark skin for the Deluge WebUI
 
 ![Dark Theme for Deluge](https://github.com/dcquence/deluge-nord/blob/master/screenshots/deluge_dark_ss.png?raw=true)
