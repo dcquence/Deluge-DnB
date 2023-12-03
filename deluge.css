@@ -1,4 +1,4 @@
-/* DELUGE DARK THEME */
+/* Deluge DnB */
 @import url('https://fonts.googleapis.com/css?family=Deja Vu Sans Mono');
 
 :root {
@@ -1354,7 +1354,7 @@ a.x-grid3-hd-btn:hover {
     background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/tree/elbow.gif);
 }
 
-.x-tree-lines .x-tree-elbow-plus {
+/*.x-tree-lines .x-tree-elbow-plus {
     background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/tree/elbow-plus.gif);
 }
 
@@ -1409,7 +1409,7 @@ a.x-grid3-hd-btn:hover {
 .x-tree-arrows .x-tree-elbow-end-minus {
     background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/tree/arrows.gif);
 }
-
+*/
 .x-tree-node {
     color: #cccccc;
     font: normal 11px 'Deja Vu Sans Mono', arial, tahoma, helvetica, sans-serif;
