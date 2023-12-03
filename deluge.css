@@ -14,7 +14,6 @@ html {
 	background-color: #252525;
 	color: #fff;
 	font-family: 'Deja Vu Sans Mono', sans-serif !important;
-    font-size: 18px
 }
 
 html,body {
@@ -61,7 +60,7 @@ input {
 .ext-el-mask-msg {
     border-color: #fff;
     background-color: #f000;
-    background-image: url(../images/gray/panel/white-top-bottom.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/panel/white-top-bottom.gif);
     background-position: 0 -1px;
     
 }
@@ -74,7 +73,7 @@ input {
 
 .x-mask-loading div {
     background-color: #fbfbfb;
-    background-image: url(../images/default/grid/loading.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/grid/loading.gif);
 }
 
 .x-item-disabled {
@@ -259,12 +258,12 @@ input {
 }
 
 .x-shadow .xsmc {
-    background-image: url(../images/default/shadow-c.png);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/shadow-c.png);
 }
 
 .x-shadow .xsml,
 .x-shadow .xsmr {
-    background-image: url(../images/default/shadow-lr.png);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/shadow-lr.png);
 }
 
 .x-shadow .xstl,
@@ -273,12 +272,12 @@ input {
 .x-shadow .xsbl,
 .x-shadow .xsbc,
 .x-shadow .xsbr {
-    background-image: url(../images/default/shadow.png);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/shadow.png);
 }
 
 .loading-indicator {
     font-size: 11px;
-    background-image: url(../images/default/grid/loading.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/grid/loading.gif);
 }
 
 .x-spotlight {
@@ -307,7 +306,7 @@ ul.x-tab-strip-top {
 
 ul.x-tab-strip-bottom {
     background-color: rgba(0, 0, 0, 0.25);
-    background-image: url(../images/gray/tabs/tab-strip-btm-bg.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/tabs/tab-strip-btm-bg.gif);
     border-top-color: transparent;
 }
 
@@ -348,40 +347,40 @@ ul.x-tab-strip li {
 }
 
 #torrentDetails dl dt,
- dl.singleline dt {
+ dl.multiline dt {
      color: #FFF!important;
  }
 
 .x-tab-strip-bottom .x-tab-right {
-    background-image: url(../images/gray/tabs/tab-btm-inactive-right-bg.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/tabs/tab-btm-inactive-right-bg.gif);
 }
 
 .x-tab-strip-bottom .x-tab-left {
-    background-image: url(../images/gray/tabs/tab-btm-inactive-left-bg.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/tabs/tab-btm-inactive-left-bg.gif);
 }
 
 .x-tab-strip-bottom .x-tab-strip-over .x-tab-left {
-    background-image: url(../images/gray/tabs/tab-btm-over-left-bg.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/tabs/tab-btm-over-left-bg.gif);
 }
 
 .x-tab-strip-bottom .x-tab-strip-over .x-tab-right {
-    background-image: url(../images/gray/tabs/tab-btm-over-right-bg.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/tabs/tab-btm-over-right-bg.gif);
 }
 
 .x-tab-strip-bottom .x-tab-strip-active .x-tab-right {
-    background-image: url(../images/gray/tabs/tab-btm-right-bg.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/tabs/tab-btm-right-bg.gif);
 }
 
 .x-tab-strip-bottom .x-tab-strip-active .x-tab-left {
-    background-image: url(../images/gray/tabs/tab-btm-left-bg.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/tabs/tab-btm-left-bg.gif);
 }
 
 .x-tab-strip .x-tab-strip-closable a.x-tab-strip-close {
-    background-image: url(../images/gray/tabs/tab-close.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/tabs/tab-close.gif);
 }
 
 .x-tab-strip .x-tab-strip-closable a.x-tab-strip-close:hover {
-    background-image: url(../images/gray/tabs/tab-close.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/tabs/tab-close.gif);
 }
 
 .x-tab-panel-body {
@@ -398,7 +397,7 @@ ul.x-tab-strip li {
 }
 
 .x-tab-scroller-left {
-    background-image: url(../images/gray/tabs/scroll-left.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/tabs/scroll-left.gif);
     border-bottom-color: #d0d0d0;
 }
 
@@ -414,7 +413,7 @@ ul.x-tab-strip li {
 }
 
 .x-tab-scroller-right {
-    background-image: url(../images/gray/tabs/scroll-right.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/tabs/scroll-right.gif);
     border-bottom-color: #d0d0d0;
 }
 
@@ -448,20 +447,20 @@ textarea.x-form-field {
 }
 
 .x-form-field-wrap .x-form-trigger {
-    background-image: url(../images/gray/form/trigger.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/form/trigger.gif);
     border-bottom-color: #b5b8c8;
 }
 
 .x-form-field-wrap .x-form-date-trigger {
-    background-image: url(../images/gray/form/date-trigger.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/form/date-trigger.gif);
 }
 
 .x-form-field-wrap .x-form-clear-trigger {
-    background-image: url(../images/gray/form/clear-trigger.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/form/clear-trigger.gif);
 }
 
 .x-form-field-wrap .x-form-search-trigger {
-    background-image: url(../images/gray/form/search-trigger.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/form/search-trigger.gif);
 }
 
 .x-trigger-wrap-focus .x-form-trigger {
@@ -484,7 +483,7 @@ textarea.x-form-focus {
 .x-form-invalid,
 textarea.x-form-invalid {
     background-color: #fff;
-    background-image: url(../images/default/grid/invalid_line.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/grid/invalid_line.gif);
     border-color: #c30;
 }
 
@@ -496,7 +495,7 @@ textarea.x-form-invalid {
 .x-form-inner-invalid,
 textarea.x-form-inner-invalid {
     background-color: #fff;
-    background-image: url(../images/default/grid/invalid_line.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/grid/invalid_line.gif);
 }
 
 .x-form-grow-sizer {
@@ -510,7 +509,7 @@ textarea.x-form-inner-invalid {
 .x-form-invalid-msg {
     color: #c0272b;
     font: normal 11px 'Deja Vu Sans Mono', tahoma, arial, helvetica, sans-serif;
-    background-image: url(../images/default/shared/warning.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/shared/warning.gif);
 }
 
 .x-form-empty-field {
@@ -526,7 +525,7 @@ textarea.x-form-inner-invalid {
 }
 
 .x-form-invalid-icon {
-    background-image: url(../images/default/form/exclamation.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/form/exclamation.gif);
 }
 
 .x-fieldset {
@@ -787,33 +786,33 @@ textarea.x-form-inner-invalid {
 }
 
 .x-btn-mc em.x-btn-arrow {
-    background-image: url(../images/default/button/arrow.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/button/arrow.gif);
 }
 
 .x-btn-mc em.x-btn-split {
-    background-image: url(../images/default/button/s-arrow.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/button/s-arrow.gif);
 }
 
 .x-btn-over .x-btn-mc em.x-btn-split,
 .x-btn-click .x-btn-mc em.x-btn-split,
 .x-btn-menu-active .x-btn-mc em.x-btn-split,
 .x-btn-pressed .x-btn-mc em.x-btn-split {
-    background-image: url(../images/gray/button/s-arrow-o.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/button/s-arrow-o.gif);
 }
 
 .x-btn-mc em.x-btn-arrow-bottom {
-    background-image: url(../images/default/button/s-arrow-b-noline.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/button/s-arrow-b-noline.gif);
 }
 
 .x-btn-mc em.x-btn-split-bottom {
-    background-image: url(../images/default/button/s-arrow-b.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/button/s-arrow-b.gif);
 }
 
 .x-btn-over .x-btn-mc em.x-btn-split-bottom,
 .x-btn-click .x-btn-mc em.x-btn-split-bottom,
 .x-btn-menu-active .x-btn-mc em.x-btn-split-bottom,
 .x-btn-pressed .x-btn-mc em.x-btn-split-bottom {
-    background-image: url(../images/gray/button/s-arrow-bo.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/button/s-arrow-bo.gif);
 }
 
 .x-btn-group-header {
@@ -821,38 +820,38 @@ textarea.x-form-inner-invalid {
 }
 
 .x-btn-group-tc {
-    background-image: url(../images/gray/button/group-tb.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/button/group-tb.gif);
 }
 
 .x-btn-group-tl {
-    background-image: url(../images/gray/button/group-cs.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/button/group-cs.gif);
 }
 
 .x-btn-group-tr {
-    background-image: url(../images/gray/button/group-cs.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/button/group-cs.gif);
 }
 
 .x-btn-group-bc {
-    background-image: url(../images/gray/button/group-tb.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/button/group-tb.gif);
 }
 
 .x-btn-group-bl {
-    background-image: url(../images/gray/button/group-cs.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/button/group-cs.gif);
 }
 
 .x-btn-group-br {
-    background-image: url(../images/gray/button/group-cs.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/button/group-cs.gif);
 }
 
 .x-btn-group-ml {
-    background-image: url(../images/gray/button/group-lr.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/button/group-lr.gif);
 }
 .x-btn-group-mr {
-    background-image: url(../images/gray/button/group-lr.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/button/group-lr.gif);
 }
 
 .x-btn-group-notitle .x-btn-group-tc {
-    background-image: url(../images/gray/button/group-tb.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/button/group-tb.gif);
 }
 .x-toolbar {
     border-color: transparent;
@@ -882,25 +881,25 @@ textarea.x-form-inner-invalid {
 }
 
 .x-toolbar .x-btn-mc em.x-btn-split {
-    background-image: url(../images/default/button/s-arrow-noline.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/button/s-arrow-noline.gif);
 }
 
 .x-toolbar .x-btn-over .x-btn-mc em.x-btn-split,
 .x-toolbar .x-btn-click .x-btn-mc em.x-btn-split,
 .x-toolbar .x-btn-menu-active .x-btn-mc em.x-btn-split,
 .x-toolbar .x-btn-pressed .x-btn-mc em.x-btn-split {
-    background-image: url(../images/gray/button/s-arrow-o.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/button/s-arrow-o.gif);
 }
 
 .x-toolbar .x-btn-mc em.x-btn-split-bottom {
-    background-image: url(../images/default/button/s-arrow-b-noline.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/button/s-arrow-b-noline.gif);
 }
 
 .x-toolbar .x-btn-over .x-btn-mc em.x-btn-split-bottom,
 .x-toolbar .x-btn-click .x-btn-mc em.x-btn-split-bottom,
 .x-toolbar .x-btn-menu-active .x-btn-mc em.x-btn-split-bottom,
 .x-toolbar .x-btn-pressed .x-btn-mc em.x-btn-split-bottom {
-    background-image: url(../images/gray/button/s-arrow-bo.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/button/s-arrow-bo.gif);
 }
 
 .x-toolbar .xtb-sep {
@@ -909,43 +908,43 @@ textarea.x-form-inner-invalid {
 }
 
 .x-tbar-page-first {
-    background-image: url(../images/gray/grid/page-first.gif) !important;
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/grid/page-first.gif) !important;
 }
 
 .x-tbar-loading {
-    background-image: url(../images/gray/grid/refresh.gif) !important;
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/grid/refresh.gif) !important;
 }
 
 .x-tbar-page-last {
-    background-image: url(../images/gray/grid/page-last.gif) !important;
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/grid/page-last.gif) !important;
 }
 
 .x-tbar-page-next {
-    background-image: url(../images/gray/grid/page-next.gif) !important;
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/grid/page-next.gif) !important;
 }
 
 .x-tbar-page-prev {
-    background-image: url(../images/gray/grid/page-prev.gif) !important;
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/grid/page-prev.gif) !important;
 }
 
 .x-item-disabled .x-tbar-loading {
-    background-image: url(../images/default/grid/loading.gif) !important;
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/grid/loading.gif) !important;
 }
 
 .x-item-disabled .x-tbar-page-first {
-    background-image: url(../images/default/grid/page-first-disabled.gif) !important;
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/grid/page-first-disabled.gif) !important;
 }
 
 .x-item-disabled .x-tbar-page-last {
-    background-image: url(../images/default/grid/page-last-disabled.gif) !important;
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/grid/page-last-disabled.gif) !important;
 }
 
 .x-item-disabled .x-tbar-page-next {
-    background-image: url(../images/default/grid/page-next-disabled.gif) !important;
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/grid/page-next-disabled.gif) !important;
 }
 
 .x-item-disabled .x-tbar-page-prev {
-    background-image: url(../images/default/grid/page-prev-disabled.gif) !important;
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/grid/page-prev-disabled.gif) !important;
 }
 
 .x-paging-info {
@@ -953,7 +952,7 @@ textarea.x-form-inner-invalid {
 }
 
 .x-toolbar-more-icon {
-    background-image: url(../images/gray/toolbar/more.gif) !important;
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/toolbar/more.gif) !important;
 }
 .x-resizable-handle {
     background-color: #fff;
@@ -963,35 +962,35 @@ textarea.x-form-inner-invalid {
 .x-resizable-pinned .x-resizable-handle-east,
 .x-resizable-over .x-resizable-handle-west,
 .x-resizable-pinned .x-resizable-handle-west {
-    background-image: url(../images/gray/sizer/e-handle.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/sizer/e-handle.gif);
 }
 
 .x-resizable-over .x-resizable-handle-south,
 .x-resizable-pinned .x-resizable-handle-south,
 .x-resizable-over .x-resizable-handle-north,
 .x-resizable-pinned .x-resizable-handle-north {
-    background-image: url(../images/gray/sizer/s-handle.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/sizer/s-handle.gif);
 }
 
 .x-resizable-over .x-resizable-handle-north,
 .x-resizable-pinned .x-resizable-handle-north {
-    background-image: url(../images/gray/sizer/s-handle.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/sizer/s-handle.gif);
 }
 .x-resizable-over .x-resizable-handle-southeast,
 .x-resizable-pinned .x-resizable-handle-southeast {
-    background-image: url(../images/gray/sizer/se-handle.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/sizer/se-handle.gif);
 }
 .x-resizable-over .x-resizable-handle-northwest,
 .x-resizable-pinned .x-resizable-handle-northwest {
-    background-image: url(../images/gray/sizer/nw-handle.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/sizer/nw-handle.gif);
 }
 .x-resizable-over .x-resizable-handle-northeast,
 .x-resizable-pinned .x-resizable-handle-northeast {
-    background-image: url(../images/gray/sizer/ne-handle.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/sizer/ne-handle.gif);
 }
 .x-resizable-over .x-resizable-handle-southwest,
 .x-resizable-pinned .x-resizable-handle-southwest {
-    background-image: url(../images/gray/sizer/sw-handle.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/sizer/sw-handle.gif);
 }
 .x-resizable-proxy {
     border-color: #565656;
@@ -1070,7 +1069,7 @@ textarea.x-form-inner-invalid {
 
 .x-grid3-header-pop-inner {
     border-left-color: #eee;
-    background-image: url(../images/default/grid/hd-pop.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/grid/hd-pop.gif);
 }
 
 td.x-grid3-hd-over,
@@ -1085,16 +1084,17 @@ td.x-grid3-hd-over .x-grid3-hd-inner,
 td.sort-desc .x-grid3-hd-inner,
 td.sort-asc .x-grid3-hd-inner,
 td.x-grid3-hd-menu-open .x-grid3-hd-inner {
+    color: white;
     background-color: rgba(83, 104, 129, .45);
     background-image: none;
 }
 
 .sort-asc .x-grid3-sort-icon {
-    background-image: url(../images/gray/grid/sort_asc.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/grid/sort_asc.gif);
 }
 
 .sort-desc .x-grid3-sort-icon {
-    background-image: url(../images/gray/grid/sort_desc.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/grid/sort_desc.gif);
 }
 
 .x-grid3-cell-text,
@@ -1103,7 +1103,7 @@ td.x-grid3-hd-menu-open .x-grid3-hd-inner {
 }
 
 .x-grid3-split {
-    background-image: url(../images/default/grid/grid-split.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/grid/grid-split.gif);
 }
 
 .x-grid3-hd-text {
@@ -1117,16 +1117,16 @@ td.x-grid3-hd-menu-open .x-grid3-hd-inner {
 
 .x-dd-drag-proxy .x-grid3-hd-inner {
     background-color: #f9f9f9;
-    background-image: url(../images/gray/grid/grid3-hrow-over2.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/grid/grid3-hrow-over2.gif);
     border-color: #ACACAC;
 }
 
 .col-move-top {
-    background-image: url(../images/gray/grid/col-move-top.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/grid/col-move-top.gif);
 }
 
 .col-move-bottom {
-    background-image: url(../images/gray/grid/col-move-bottom.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/grid/col-move-bottom.gif);
 }
 
 .x-grid3-row-selected {
@@ -1152,7 +1152,7 @@ td.x-grid3-hd-menu-open .x-grid3-hd-inner {
 .x-grid3-locked td.x-grid3-row-marker,
 .x-grid3-locked .x-grid3-row-selected td.x-grid3-row-marker {
     background-color: #ebeadb !important;
-    background-image: url(../images/default/grid/grid-hrow.gif) !important;
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/grid/grid-hrow.gif) !important;
     color: #fff;
     border-top-color: #fff;
     border-right-color: #6fa0df !important;
@@ -1164,7 +1164,7 @@ td.x-grid3-hd-menu-open .x-grid3-hd-inner {
 }
 
 .x-grid3-dirty-cell {
-    background-image: url(../images/default/grid/dirty.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/grid/dirty.gif);
 }
 
 .x-grid3-topbar,
@@ -1177,7 +1177,7 @@ td.x-grid3-hd-menu-open .x-grid3-hd-inner {
 }
 
 .x-props-grid .x-grid3-td-name .x-grid3-cell-inner {
-    background-image: url(../images/default/grid/grid3-special-col-bg.gif) !important;
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/grid/grid3-special-col-bg.gif) !important;
     color: #fff !important;
 }
 
@@ -1187,19 +1187,19 @@ td.x-grid3-hd-menu-open .x-grid3-hd-inner {
 }
 
 .xg-hmenu-sort-asc .x-menu-item-icon {
-    background-image: url(../images/default/grid/hmenu-asc.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/grid/hmenu-asc.gif);
 }
 
 .xg-hmenu-sort-desc .x-menu-item-icon {
-    background-image: url(../images/default/grid/hmenu-desc.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/grid/hmenu-desc.gif);
 }
 
 .xg-hmenu-lock .x-menu-item-icon {
-    background-image: url(../images/default/grid/hmenu-lock.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/grid/hmenu-lock.gif);
 }
 
 .xg-hmenu-unlock .x-menu-item-icon {
-    background-image: url(../images/default/grid/hmenu-unlock.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/grid/hmenu-unlock.gif);
 }
 
 .x-grid3-hd-btn,
@@ -1213,24 +1213,24 @@ a.x-grid3-hd-btn:hover {
 }
 
 .x-grid3-body .x-grid3-td-expander {
-    background-image: url(../images/default/grid/grid3-special-col-bg.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/grid/grid3-special-col-bg.gif);
 }
 
 .x-grid3-row-expander {
-    background-image: url(../images/gray/grid/row-expand-sprite.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/grid/row-expand-sprite.gif);
 }
 
 .x-grid3-body .x-grid3-td-checker {
-    background-image: url(../images/default/grid/grid3-special-col-bg.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/grid/grid3-special-col-bg.gif);
 }
 
 .x-grid3-row-checker,
 .x-grid3-hd-checker {
-    background-image: url(../images/default/grid/row-check-sprite.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/grid/row-check-sprite.gif);
 }
 
 .x-grid3-body .x-grid3-td-numberer {
-    background-image: url(../images/default/grid/grid3-special-col-bg.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/grid/grid3-special-col-bg.gif);
 }
 
 .x-grid3-body .x-grid3-td-numberer .x-grid3-cell-inner {
@@ -1238,21 +1238,21 @@ a.x-grid3-hd-btn:hover {
 }
 
 .x-grid3-body .x-grid3-td-row-icon {
-    background-image: url(../images/default/grid/grid3-special-col-bg.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/grid/grid3-special-col-bg.gif);
 }
 
 .x-grid3-body .x-grid3-row-selected .x-grid3-td-numberer,
 .x-grid3-body .x-grid3-row-selected .x-grid3-td-checker,
 .x-grid3-body .x-grid3-row-selected .x-grid3-td-expander {
-    background-image: url(../images/gray/grid/grid3-special-col-sel-bg.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/grid/grid3-special-col-sel-bg.gif);
 }
 
 .x-grid3-check-col {
-    background-image: url(../images/default/menu/unchecked.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/menu/unchecked.gif);
 }
 
 .x-grid3-check-col-on {
-    background-image: url(../images/default/menu/checked.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/menu/checked.gif);
 }
 
 .x-grid-group,
@@ -1266,17 +1266,17 @@ a.x-grid3-hd-btn:hover {
 }
 
 .x-grid-group-hd div.x-grid-group-title {
-    background-image: url(../images/gray/grid/group-collapse.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/grid/group-collapse.gif);
     color: #5F5F5F;
     font: bold 11px 'Deja Vu Sans Mono', tahoma, arial, helvetica, sans-serif;
 }
 
 .x-grid-group-collapsed .x-grid-group-hd div.x-grid-group-title {
-    background-image: url(../images/gray/grid/group-expand.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/grid/group-expand.gif);
 }
 
 .x-group-by-icon {
-    background-image: url(../images/default/grid/group-by.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/grid/group-by.gif);
 }
 
 .x-cols-icon {
@@ -1284,7 +1284,7 @@ a.x-grid3-hd-btn:hover {
 }
 
 .x-show-groups-icon {
-    background-image: url(../images/default/grid/group-by.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/grid/group-by.gif);
 }
 
 .x-grid-empty {
@@ -1308,7 +1308,7 @@ a.x-grid3-hd-btn:hover {
     border-top-color: #B9B9B9;
 }
 .x-pivotgrid .x-grid3-header-offset table td {
-    background: url(../images/gray/grid/grid3-hrow2.gif) repeat-x 50% 100%;
+    background: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/grid/grid3-hrow2.gif) repeat-x 50% 100%;
     border-left: 1px solid;
     border-right: 1px solid;
     border-left-color: #D0D0D0;
@@ -1320,7 +1320,7 @@ a.x-grid3-hd-btn:hover {
 }
 
 .x-pivotgrid .x-grid3-row-headers table td {
-    background: #EEE url(../images/default/grid/grid3-rowheader.gif) repeat-x left top;
+    background: #EEE url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/grid/grid3-rowheader.gif) repeat-x left top;
     border-left: 1px solid;
     border-right: 1px solid;
     border-left-color: #EEE;
@@ -1337,15 +1337,15 @@ a.x-grid3-hd-btn:hover {
 }
 
 .x-dd-drop-nodrop .x-dd-drop-icon {
-    background-image: url(../images/default/dd/drop-no.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/dd/drop-no.gif);
 }
 
 .x-dd-drop-ok .x-dd-drop-icon {
-    background-image: url(../images/default/dd/drop-yes.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/dd/drop-yes.gif);
 }
 
 .x-dd-drop-ok-add .x-dd-drop-icon {
-    background-image: url(../images/default/dd/drop-add.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/dd/drop-add.gif);
 }
 
 .x-view-selector {
@@ -1366,7 +1366,7 @@ a.x-grid3-hd-btn:hover {
 }
 
 .x-tree-node-loading .x-tree-node-icon {
-    background-image: url(../images/default/tree/loading.gif) !important;
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/tree/loading.gif) !important;
 }
 
 .x-tree-node .x-tree-node-inline-icon {
@@ -1384,63 +1384,63 @@ a.x-grid3-hd-btn:hover {
 }
 
 .x-tree-lines .x-tree-elbow {
-    background-image: url(../images/default/tree/elbow.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/tree/elbow.gif);
 }
 
 .x-tree-lines .x-tree-elbow-plus {
-    background-image: url(../images/default/tree/elbow-plus.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/tree/elbow-plus.gif);
 }
 
 .x-tree-lines .x-tree-elbow-minus {
-    background-image: url(../images/default/tree/elbow-minus.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/tree/elbow-minus.gif);
 }
 
 .x-tree-lines .x-tree-elbow-end {
-    background-image: url(../images/default/tree/elbow-end.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/tree/elbow-end.gif);
 }
 
 .x-tree-lines .x-tree-elbow-end-plus {
-    background-image: url(../images/gray/tree/elbow-end-plus.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/tree/elbow-end-plus.gif);
 }
 
 .x-tree-lines .x-tree-elbow-end-minus {
-    background-image: url(../images/gray/tree/elbow-end-minus.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/tree/elbow-end-minus.gif);
 }
 
 .x-tree-lines .x-tree-elbow-line {
-    background-image: url(../images/default/tree/elbow-line.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/tree/elbow-line.gif);
 }
 
 .x-tree-no-lines .x-tree-elbow-plus {
-    background-image: url(../images/default/tree/elbow-plus-nl.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/tree/elbow-plus-nl.gif);
 }
 
 .x-tree-no-lines .x-tree-elbow-minus {
-    background-image: url(../images/default/tree/elbow-minus-nl.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/tree/elbow-minus-nl.gif);
 }
 
 .x-tree-no-lines .x-tree-elbow-end-plus {
-    background-image: url(../images/gray/tree/elbow-end-plus-nl.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/tree/elbow-end-plus-nl.gif);
 }
 
 .x-tree-no-lines .x-tree-elbow-end-minus {
-    background-image: url(../images/gray/tree/elbow-end-minus-nl.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/tree/elbow-end-minus-nl.gif);
 }
 
 .x-tree-arrows .x-tree-elbow-plus {
-    background-image: url(../images/gray/tree/arrows.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/tree/arrows.gif);
 }
 
 .x-tree-arrows .x-tree-elbow-minus {
-    background-image: url(../images/gray/tree/arrows.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/tree/arrows.gif);
 }
 
 .x-tree-arrows .x-tree-elbow-end-plus {
-    background-image: url(../images/gray/tree/arrows.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/tree/arrows.gif);
 }
 
 .x-tree-arrows .x-tree-elbow-end-minus {
-    background-image: url(../images/gray/tree/arrows.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/tree/arrows.gif);
 }
 
 .x-tree-node {
@@ -1497,19 +1497,19 @@ a.x-grid3-hd-btn:hover {
 }
 
 .x-tree-drop-ok-append .x-dd-drop-icon {
-    background-image: url(../images/default/tree/drop-add.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/tree/drop-add.gif);
 }
 
 .x-tree-drop-ok-above .x-dd-drop-icon {
-    background-image: url(../images/default/tree/drop-over.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/tree/drop-over.gif);
 }
 
 .x-tree-drop-ok-below .x-dd-drop-icon {
-    background-image: url(../images/default/tree/drop-under.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/tree/drop-under.gif);
 }
 
 .x-tree-drop-ok-between .x-dd-drop-icon {
-    background-image: url(../images/default/tree/drop-between.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/tree/drop-between.gif);
 }
 .x-date-picker {
     border-color: #585858;
@@ -1519,7 +1519,7 @@ a.x-grid3-hd-btn:hover {
 .x-date-middle,
 .x-date-left,
 .x-date-right {
-    background-image: url(../images/gray/shared/hd-sprite.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/shared/hd-sprite.gif);
     color: #fff;
     font: bold 11px 'Deja Vu Sans Mono', "sans serif", tahoma, verdana, helvetica;
 }
@@ -1538,20 +1538,20 @@ a.x-grid3-hd-btn:hover {
 }
 
 .x-date-middle .x-btn-mc em.x-btn-arrow {
-    background-image: url(../images/gray/toolbar/btn-arrow-light.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/toolbar/btn-arrow-light.gif);
 }
 
 .x-date-right a {
-    background-image: url(../images/gray/shared/right-btn.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/shared/right-btn.gif);
 }
 
 .x-date-left a {
-    background-image: url(../images/gray/shared/left-btn.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/shared/left-btn.gif);
 }
 
 .x-date-inner th {
     background-color: #D8D8D8;
-    background-image: url(../images/gray/panel/white-top-bottom.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/panel/white-top-bottom.gif);
     border-bottom-color: #AFAFAF;
     font: normal 10px 'Deja Vu Sans Mono', helvetica, tahoma, sans-serif;
     color: #595959;
@@ -1653,7 +1653,7 @@ td.x-date-mp-sel a {
 }
 
 .x-date-mp-ybtn a {
-    background-image: url(../images/gray/panel/tool-sprites.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/panel/tool-sprites.gif);
 }
 
 td.x-date-mp-sep {
@@ -1661,7 +1661,7 @@ td.x-date-mp-sep {
 }
 
 .x-tip .x-tip-close {
-    background-image: url(../images/gray/qtip/close.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/qtip/close.gif);
 }
 
 .x-tip .x-tip-tc,
@@ -1672,7 +1672,7 @@ td.x-date-mp-sep {
 .x-tip .x-tip-br,
 .x-tip .x-tip-ml,
 .x-tip .x-tip-mr {
-    background-image: url(../images/gray/qtip/tip-sprite.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/qtip/tip-sprite.gif);
 }
 
 .x-tip .x-tip-mc {
@@ -1700,15 +1700,15 @@ td.x-date-mp-sep {
 .x-form-invalid-tip .x-tip-br,
 .x-form-invalid-tip .x-tip-ml,
 .x-form-invalid-tip .x-tip-mr {
-    background-image: url(../images/default/form/error-tip-corners.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/form/error-tip-corners.gif);
 }
 
 .x-form-invalid-tip .x-tip-body {
-    background-image: url(../images/default/form/exclamation.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/form/exclamation.gif);
 }
 
 .x-tip-anchor {
-    background-image: url(../images/gray/qtip/tip-anchor-sprite.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/qtip/tip-anchor-sprite.gif);
 }
 .x-menu {
     background: var(--modal-bg-color);
@@ -1727,7 +1727,7 @@ td.x-date-mp-sep {
 }
 
 .x-menu-item-arrow {
-    background-image: url(../images/gray/menu/menu-parent.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/menu/menu-parent.gif);
 }
 
 .x-menu-sep {
@@ -1750,15 +1750,15 @@ a.x-menu-item {
 }
 
 .x-menu-check-item .x-menu-item-icon {
-    background-image: url(../images/default/menu/unchecked.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/menu/unchecked.gif);
 }
 
 .x-menu-item-checked .x-menu-item-icon {
-    background-image: url(../images/default/menu/checked.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/menu/checked.gif);
 }
 
 .x-menu-item-checked .x-menu-group-item .x-menu-item-icon {
-    background-image: url(../images/gray/menu/group-checked.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/menu/group-checked.gif);
 }
 
 .x-menu-group-item .x-menu-item-icon {
@@ -1779,31 +1779,31 @@ a.x-menu-item {
 }
 
 .x-menu-scroller-top {
-    background-image: url(../images/default/layout/mini-top.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/layout/mini-top.gif);
 }
 
 .x-menu-scroller-bottom {
-    background-image: url(../images/default/layout/mini-bottom.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/layout/mini-bottom.gif);
 }
 .x-box-tl {
-    background-image: url(../images/default/box/corners.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/box/corners.gif);
 }
 
 .x-box-tc {
-    background-image: url(../images/default/box/tb.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/box/tb.gif);
 }
 
 .x-box-tr {
-    background-image: url(../images/default/box/corners.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/box/corners.gif);
 }
 
 .x-box-ml {
-    background-image: url(../images/default/box/l.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/box/l.gif);
 }
 
 .x-box-mc {
     background-color: #eee;
-    background-image: url(../images/default/box/tb.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/box/tb.gif);
     font-family: "Myriad Pro", "Myriad Web", "Tahoma", "Helvetica", "Arial", sans-serif;
     color: #393939;
     font-size: 12px;
@@ -1815,32 +1815,32 @@ a.x-menu-item {
 }
 
 .x-box-mr {
-    background-image: url(../images/default/box/r.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/box/r.gif);
 }
 
 .x-box-bl {
-    background-image: url(../images/default/box/corners.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/box/corners.gif);
 }
 
 .x-box-bc {
-    background-image: url(../images/default/box/tb.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/box/tb.gif);
 }
 
 .x-box-br {
-    background-image: url(../images/default/box/corners.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/box/corners.gif);
 }
 
 .x-box-blue .x-box-bl,
 .x-box-blue .x-box-br,
 .x-box-blue .x-box-tl,
 .x-box-blue .x-box-tr {
-    background-image: url(../images/default/box/corners-blue.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/box/corners-blue.gif);
 }
 
 .x-box-blue .x-box-bc,
 .x-box-blue .x-box-mc,
 .x-box-blue .x-box-tc {
-    background-image: url(../images/default/box/tb-blue.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/box/tb-blue.gif);
 }
 
 .x-box-blue .x-box-mc {
@@ -1852,11 +1852,11 @@ a.x-menu-item {
 }
 
 .x-box-blue .x-box-ml {
-    background-image: url(../images/default/box/l-blue.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/box/l-blue.gif);
 }
 
 .x-box-blue .x-box-mr {
-    background-image: url(../images/default/box/r-blue.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/box/r-blue.gif);
 }
 .x-combo-list {
     border-color: #666666;
@@ -1871,7 +1871,7 @@ a.x-menu-item {
 .x-combo-list-hd {
     font: bold 11px 'Deja Vu Sans Mono', tahoma, arial, helvetica, sans-serif;
     color: #333;
-    background-image: url(../images/default/layout/panel-title-light-bg.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/layout/panel-title-light-bg.gif);
     border-bottom-color: #BCBCBC;
 }
 
@@ -1938,19 +1938,19 @@ a.x-menu-item {
 }
 
 .x-panel-tc {
-    background-image: url(../images/gray/panel/top-bottom.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/panel/top-bottom.gif);
 }
 
 .x-panel-tl,
 .x-panel-tr,
 .x-panel-bl,
 .x-panel-br {
-    background-image: url(../images/gray/panel/corners-sprite.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/panel/corners-sprite.gif);
     border-bottom-color: #d0d0d0;
 }
 
 .x-panel-bc {
-    background-image: url(../images/gray/panel/top-bottom.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/panel/top-bottom.gif);
 }
 
 .x-panel-mc {
@@ -1960,15 +1960,15 @@ a.x-menu-item {
 
 .x-panel-ml {
     background-color: #fff;
-    background-image: url(../images/gray/panel/left-right.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/panel/left-right.gif);
 }
 
 .x-panel-mr {
-    background-image: url(../images/gray/panel/left-right.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/panel/left-right.gif);
 }
 
 .x-tool {
-    background-image: url(../images/gray/panel/tool-sprites.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/panel/tool-sprites.gif);
 }
 
 .x-panel-collapsed .x-accordion-hd .x-tool-toggle {
@@ -2158,7 +2158,7 @@ body.x-body-masked .x-window-plain .x-window-mc {
     background-color: #fff;
 }
 .x-html-editor-tb .x-btn-text {
-    background-image: url(../images/default/editor/tb-sprite.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/editor/tb-sprite.gif);
 }
 .x-panel-noborder .x-panel-header-noborder {
     border-bottom-color: rgba(255, 255, 255, 0.08);
@@ -2191,7 +2191,7 @@ body.x-body-masked .x-window-plain .x-window-mc {
 .x-accordion-hd {
     color: #ffffff;
     font-weight: normal;
-    background-image: url(../images/gray/panel/light-hd.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/panel/light-hd.gif);
 }
 
 .x-layout-collapsed {
@@ -2204,32 +2204,32 @@ body.x-body-masked .x-window-plain .x-window-mc {
 }
 
 .x-layout-split-west .x-layout-mini {
-    background-image: url(../images/default/layout/mini-left.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/layout/mini-left.gif);
 }
 .x-layout-split-east .x-layout-mini {
-    background-image: url(../images/default/layout/mini-right.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/layout/mini-right.gif);
 }
 .x-layout-split-north .x-layout-mini {
-    background-image: url(../images/default/layout/mini-top.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/layout/mini-top.gif);
 }
 .x-layout-split-south .x-layout-mini {
-    background-image: url(../images/default/layout/mini-bottom.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/layout/mini-bottom.gif);
 }
 
 .x-layout-cmini-west .x-layout-mini {
-    background-image: url(../images/default/layout/mini-right.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/layout/mini-right.gif);
 }
 
 .x-layout-cmini-east .x-layout-mini {
-    background-image: url(../images/default/layout/mini-left.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/layout/mini-left.gif);
 }
 
 .x-layout-cmini-north .x-layout-mini {
-    background-image: url(../images/default/layout/mini-bottom.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/layout/mini-bottom.gif);
 }
 
 .x-layout-cmini-south .x-layout-mini {
-    background-image: url(../images/default/layout/mini-top.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/layout/mini-top.gif);
 }
 .x-progress-wrap {
     border-color: transparent;
@@ -2300,21 +2300,21 @@ body.x-body-masked .x-window-plain .x-window-mc {
 .x-slider-horz,
 .x-slider-horz .x-slider-end,
 .x-slider-horz .x-slider-inner {
-    background-image: url(../images/default/slider/slider-bg.png);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/slider/slider-bg.png);
 }
 
 .x-slider-horz .x-slider-thumb {
-    background-image: url(../images/gray/slider/slider-thumb.png);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/slider/slider-thumb.png);
 }
 
 .x-slider-vert,
 .x-slider-vert .x-slider-end,
 .x-slider-vert .x-slider-inner {
-    background-image: url(../images/default/slider/slider-v-bg.png);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/slider/slider-v-bg.png);
 }
 
 .x-slider-vert .x-slider-thumb {
-    background-image: url(../images/gray/slider/slider-v-thumb.png);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/slider/slider-v-thumb.png);
 }
 .x-window-dlg .ext-mb-text,
 .x-window-dlg .x-window-header-text {
@@ -2326,21 +2326,21 @@ body.x-body-masked .x-window-plain .x-window-mc {
 }
 
 .x-window-dlg .x-msg-box-wait {
-    background-image: url(../images/default/grid/loading.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/default/grid/loading.gif);
 }
 
 .x-window-dlg .ext-mb-info {
-    background-image: url(../images/gray/window/icon-info.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/window/icon-info.gif);
 }
 
 .x-window-dlg .ext-mb-warning {
-    background-image: url(../images/gray/window/icon-warning.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/window/icon-warning.gif);
 }
 
 .x-window-dlg .ext-mb-question {
-    background-image: url(../images/gray/window/icon-question.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/window/icon-question.gif);
 }
 
 .x-window-dlg .ext-mb-error {
-    background-image: url(../images/gray/window/icon-error.gif);
+    background-image: url(https://raw.githubusercontent.com/dcquence/DarkNBlue/main/images/gray/window/icon-error.gif);
 }
