@@ -1,7 +1,7 @@
 # DarkNBlue
 This is a dark skin for the Deluge WebUI
 
-![Dark Theme for Deluge](https://github.com/dcquence/deluge-nord/blob/master/screenshots/deluge_dnb.png)
+![Dark Theme for Deluge]([https://github.com/dcquence/deluge-nord/blob/master/screenshots/deluge_dnb.png](https://raw.githubusercontent.com/dcquence/DarkNBlue/main/screenshots/deluge_dnb.png))
 
 ## Installation
 Deluge requires a [subfilter](http://nginx.org/en/docs/http/ngx_http_sub_module.html) to use. All you have to do is include the following into your reverse proxy block for Deluge.
