@@ -1,4 +1,11 @@
-/* Deluge DnB */
+/*==UserStyle==
+@name Deluge DnB
+@namespace github.com/dcquence/Deluge-DnB
+@homepageURL https://github.com/dcquence/Deluge-DnB
+@updateURL https://raw.githubusercontent.com/dcquence/Deluge-DnB/main/deluge.css
+@license GNU-V3.0
+*/
+
 @import url('https://fonts.googleapis.com/css?family=Deja Vu Sans Mono');
 
 :root {
