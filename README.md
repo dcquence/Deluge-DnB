@@ -13,5 +13,5 @@ sub_filter
 </head>';
 sub_filter_once on;
 ```
-## For sue with Stylus add-on
+## For use with Stylus add-on
 Create a new style for the url your Deluge WebUI is accessed at. Copy the contents of deluge.css to the style sheet and save
