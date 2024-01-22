@@ -9,7 +9,7 @@ Deluge requires a [subfilter](http://nginx.org/en/docs/http/ngx_http_sub_module.
 proxy_set_header Accept-Encoding "";
 sub_filter
 '</head>'
-'<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/dcquence/deluge-nord/master/deluge.css">
+'<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/dcquence/Deluge-DnB/main/deluge.css">
 </head>';
 sub_filter_once on;
 ```
