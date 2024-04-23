@@ -3,13 +3,14 @@
 @version 1.1
 @namespace github.com/dcquence/Deluge-DnB
 @homepageURL https://github.com/dcquence/Deluge-DnB
-@updateURL https://raw.githubusercontent.com/dcquence/Deluge-DnB/main/deluge.css
 @downloadURL https://raw.githubusercontent.com/dcquence/Deluge-DnB/main/deluge.css
-@license GNU-V3.0
+@supportURL   https://github.com/userstyles-world/tweaks/issues
+@preprocessor stylus
+@version      1.4.2
+@license      MIT
 */
 
-@import url('https://fonts.googleapis.com/css?family=Deja Vu Sans Mono');
-    
+@-moz-document url-prefix("http://<ip of deluge>:8112") {
 :root {
     --main-bg-color: #282828;
     --modal-bg-color: #3a3a3a;
@@ -106,6 +107,11 @@ input {
     background-position: left center;
 }
 
+/*
+  .x-color-palette em:hover, .x-color-palette span:hover{   
+      background-color: #eaeaea;
+  }
+  */
 .x-color-palette em {
     border-color: #aca899;
 }
@@ -424,6 +430,8 @@ textarea.x-form-inner-invalid {
 }
 #tbar-deluge-text * {
     color: white !important;
+    font-size: 12px;
+    font-family: Roboto;
 }
 
 /* Buttons hover */
@@ -614,7 +622,7 @@ td.x-grid3-hd-menu-open .x-grid3-hd-inner {
 
 .x-grid3-cell-text,
 .x-grid3-hd-text {
-    color: #fff;
+    color: #000;
 }
 
 .x-grid3-hd-text {
@@ -647,7 +655,7 @@ td.x-grid3-hd-menu-open .x-grid3-hd-inner {
 }
 
 .x-grid3-cell-selected .x-grid3-cell-text {
-    color: #edecec;
+    color: #000;
 }
 
 .x-grid3-locked td.x-grid3-row-marker,
@@ -1377,7 +1385,7 @@ body.x-body-masked .x-window-plain .x-window-mc {
 }
 
 .x-progress-inner {
-    background-color: rgba(180, 46, 46, 0);
+    background-color: transparent;
     background-image: none;
 }
 
@@ -1401,7 +1409,7 @@ body.x-body-masked .x-window-plain .x-window-mc {
 }
 
 .x-progress-text-back {
-    color: #fff !important;
+    color: #d4d4d49e !important;
     text-align: center;
     vertical-align: middle
 }
@@ -1446,4 +1454,5 @@ body.x-body-masked .x-window-plain .x-window-mc {
 
 .x-window-dlg .ext-mb-textarea {
     font: normal 12px 'Deja Vu Sans Mono', tahoma, arial, helvetica, sans-serif;
+}
 }
