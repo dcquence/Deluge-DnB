@@ -10,7 +10,7 @@
 @license      MIT
 */
 
-@-moz-document url-prefix("http://10.1.1.9:8112") {
+@-moz-document url-prefix("http://<deluge up>:8112") {
 :root {
     --main-bg-color: #282828;
     --modal-bg-color: #3a3a3a;
