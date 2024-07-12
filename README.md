@@ -6,7 +6,7 @@ This is a dark skin for the Deluge WebUI
 ## Installation
 
 ### For use with Stylus add-on
-Visit the userstyles page for the theme here(https://userstyles.world/style/13442/deluge-dnb)
+Visit the userstyles page for the theme here https://userstyles.world/style/13442/deluge-dnb
 
 Or
 
