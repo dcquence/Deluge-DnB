@@ -188,6 +188,9 @@ ul.x-tab-strip li {
 #torrentDetails dl dt,
  dl.singleline dt {
      color: #FFF!important;
+     width: 90px;
+     margin-right: 10px;
+     white-space: nowrap
  }
 
 .x-tab-panel-body {
